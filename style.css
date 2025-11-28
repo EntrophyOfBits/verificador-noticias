@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #c9fff6;
+  background: #00c26b;
   color: #2f3640;
   display: flex;
   flex-direction: column;
@@ -89,6 +89,7 @@ footer {
   padding: 1rem;
   font-size: 0.9rem;
 }
+
 
 
 
