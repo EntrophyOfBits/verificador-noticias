@@ -83,12 +83,13 @@ main {
 .resultado.alerta { color: #fbc531; font-weight: bold; }
 
 footer {
-  background: #273c75;
+  background: #000000;
   color: white;
   text-align: center;
   padding: 1rem;
   font-size: 0.9rem;
 }
+
 
 
 
