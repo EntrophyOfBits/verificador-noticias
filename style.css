@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #f5f6fa;
+  background: #c9fff6;
   color: #2f3640;
   display: flex;
   flex-direction: column;
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-color: #000000;
+  background-color: #fffff
   color: #fff;
   text-align: center;
   padding: 2rem 1rem;
@@ -89,6 +89,7 @@ footer {
   padding: 1rem;
   font-size: 0.9rem;
 }
+
 
 
 
