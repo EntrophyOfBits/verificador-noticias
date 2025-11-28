@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-color: #e00c00;
+  background-color: #b700f0;
   color: #fff;
   text-align: center;
   padding: 2rem 1rem;
@@ -34,7 +34,7 @@ main {
 }
 
 .checker {
-  background: #e00c00;
+  background: #b700f0;
   padding: 2rem 3rem;
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
@@ -89,6 +89,7 @@ footer {
   padding: 1rem;
   font-size: 0.9rem;
 }
+
 
 
 
