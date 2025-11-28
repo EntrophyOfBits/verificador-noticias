@@ -34,7 +34,7 @@ main {
 }
 
 .checker {
-  background: #ff1205;
+  background: #e00c00;
   padding: 2rem 3rem;
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
@@ -89,6 +89,7 @@ footer {
   padding: 1rem;
   font-size: 0.9rem;
 }
+
 
 
 
