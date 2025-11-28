@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #d00000;
+  background: #000000;
   color: #2f3640;
   display: flex;
   flex-direction: column;
@@ -89,6 +89,7 @@ footer {
   padding: 1rem;
   font-size: 0.9rem;
 }
+
 
 
 
